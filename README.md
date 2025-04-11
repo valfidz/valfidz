@@ -13,5 +13,5 @@ Thanks for visiting my profile!
 ---
 
 <a href="https://linkedin.com/in/nhafizh">
-    <img src="linkedin.png" alt="LinkedIn" height="40" width="40">
+    <img src="linkedin.png" alt="LinkedIn" height="25" width="25">
 </a>
