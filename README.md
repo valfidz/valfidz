@@ -1,6 +1,6 @@
 <p align="center"><img src="pict1.jpeg" /></p>
 
-### Hello World!
+### Hello World! 👋
 
 I'm [valfidz](https://github.com/valfidz). I'm living in Tasikmalaya and working as Backend Developer since 2023 with Node.js as my main tool. Here are some projects that I have done:
 
@@ -13,5 +13,5 @@ Thanks for visiting my profile!
 ---
 
 <a href="https://linkedin.com/in/nhafizh">
-    <img src="linkedin.png" alt="LinkedIn">
+    <img src="linkedin.png" alt="LinkedIn" height="40" width="40">
 </a>
