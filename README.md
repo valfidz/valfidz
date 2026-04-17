@@ -8,7 +8,7 @@ I'm [valfidz](https://github.com/valfidz). I'm living in Tasikmalaya and working
 - [pipopa-backend](https://github.com/valfidz/pipopa-be/tree/development) - Backend API for landing page and dashboard of PIPOPA, it consists of auth, sendmail, and article CRUD API
 - and many more
 
-Thanks for visiting my profile!
+Thanks for visiting my profile! If you like, you can visit my portfolio website at <a href="https://valcodes.netlify.app">Portfolio</a>
 
 ---
 
